@@ -1,0 +1,22 @@
+{
+    "name": "rallynode",
+    "version": "1.0.0",
+    "description": "RallyNode: A Node.js GSN Client for Rally Protocol",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "dependencies": {
+      "axios": "^0.24.0"
+    },
+    "devDependencies": {
+      "jest": "^27.2.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/yourusername/rallynode.git"
+    },
+    "keywords": ["rally", "gsn", "node.js"],
+    "author": "Venkatesh R",
+    "license": "MIT"
+  }
