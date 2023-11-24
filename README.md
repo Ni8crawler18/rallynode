@@ -19,4 +19,4 @@ RallyNode is a Node.js client designed to seamlessly integrate with the Rally Pr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/rallynode.git
+   git clone https://github.com/ni8crawler18/rallynode.git
